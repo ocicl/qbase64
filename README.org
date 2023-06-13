@@ -1,0 +1,10 @@
+* qbase64
+
+Fast and flexible base64 encoder/decoder in Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/chaitanyagupta/qbase64.git   |
+| commit  | 4ac193e  |
+| systems | qbase64 |
+|---------+-------------------------------------------|
+
